@@ -3,7 +3,6 @@ public class Skitchin {
         System.out.println("Skitchin");
         System.out.println("SkitchinKaramultuk");
         System.out.println("Skitchin2");
-
         System.out.println("А тут новая строка для пулл реквеста =)");
     }
 }
